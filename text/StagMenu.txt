@@ -1,0 +1,17 @@
+<entries>
+<entry name="CITY_OF_TEARS_1">Гарадскія Склады</entry>
+<entry name="DIRTMOUTH">Гразьмут</entry>
+<entry name="DEEPNEST">Аддаленая Вёска</entry>
+<entry name="KINGS_STATION">Станцыя Караля</entry>
+<entry name="RESTING_GROUNDS">Землі Спачыну</entry>
+<entry name="HIDDEN_STATION">Схаваная Станцыя</entry>
+<entry name="STAG_NEST">Рагачовае Гняздо</entry>
+<entry name="ROYAL_GARDENS">Сады Каралевы</entry>
+<entry name="GREENPATH">Зялёны Шлях</entry>
+<entry name="STATIONS">Станцыі</entry>
+<entry name="BONE_FOREST">Касцяны Лес</entry>
+<entry name="CROSSROADS">Забытыя Ростані</entry>
+<entry name="FUNGAL_WASTES">Станцыя Каралевы</entry>
+<entry name="PALACE_GROUNDS">Мясціны Палацу</entry>
+</entries>
+

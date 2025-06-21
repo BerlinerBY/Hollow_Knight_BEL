@@ -394,7 +394,7 @@
 <entry name="GH_CHAGAX_NC_MAIN">Доктар Чагакс</entry>
 <entry name="BIGFLY_MAIN">Бзыкуха</entry>
 <entry name="BANKER_SUPER"></entry>
-<entry name="GH_MARISSA_C_SUB">ад Marissa "Blondie" Brice</entry>
+<entry name="GH_MARISSA_C_SUB">ад Marissa «Blondie» Brice</entry>
 <entry name="BIGFLY_SUPER"></entry>
 <entry name="KINGS_STATION_SUB"></entry>
 <entry name="TUK_NC_SUPER"></entry>

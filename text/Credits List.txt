@@ -19,11 +19,11 @@
 <entry name="TUTORIAL_CREDIT_SCORE">Гук і Партытура ад</entry>
 <entry name="CREDITS_EXTRA_THANKS">Асаблівая Дадатковая Падзяка</entry>
 <entry name="CREDITS_TESTERS_NAME_COL_02">Ayako Hibino&lt;br&gt;Ben Newhouse&lt;br&gt;Pirate-Rob&lt;br&gt;Unborn_Pho3nix&lt;br&gt;Kyle Pulver&lt;br&gt;Greg Smith&lt;br&gt;Luke Souris&lt;br&gt;Matthew White&lt;br&gt;Kein Zantezuken&lt;br&gt;Benjamin Zarb&lt;br&gt;</entry>
-<entry name="CREDITS_TESTERS_NAME_COL_01">Hari Dimitriou&lt;br&gt;Tyler Bartley&lt;br&gt;Lili Carlyle&lt;br&gt;Joshua Clark&lt;br&gt;Andrew Cook&lt;br&gt;Shannon Cross&lt;br&gt;Vero "Embraced" Reichert&lt;br&gt;Rohan Fraser&lt;br&gt;Nassim "Simo" Gebrail&lt;br&gt;Tobias Gut</entry>
+<entry name="CREDITS_TESTERS_NAME_COL_01">Hari Dimitriou&lt;br&gt;Tyler Bartley&lt;br&gt;Lili Carlyle&lt;br&gt;Joshua Clark&lt;br&gt;Andrew Cook&lt;br&gt;Shannon Cross&lt;br&gt;Vero «Embraced» Reichert&lt;br&gt;Rohan Fraser&lt;br&gt;Nassim «Simo» Gebrail&lt;br&gt;Tobias Gut</entry>
 <entry name="PERMA_UNLOCK_TITLE">РЭЖЫМ СТАЛЬНАЯ ДУША</entry>
 <entry name="CREDITS_TESTERS_MAC">Тэсціроўшчыкі - Mac</entry>
 <entry name="CREDITS_SCORE">Гук &amp; Музыка ад</entry>
-<entry name="CREDITS_ADDIT_TRANSLATE_RUSSIAN_NAME">Danila Evstifeev&lt;br&gt;Andrey Torbin&lt;br&gt;Alexandra "Alphyna" Golubeva</entry>
+<entry name="CREDITS_ADDIT_TRANSLATE_RUSSIAN_NAME">Danila Evstifeev&lt;br&gt;Andrey Torbin&lt;br&gt;Alexandra «Alphyna» Golubeva</entry>
 <entry name="CREDITS_ADDIT_TRANSLATE_RUSSIAN">Additional Translation - Russian</entry>
 <entry name="CREDITS_ADDITIONAL_ENEMYCODE">Additional Enemy Behaviour</entry>
 <entry name="PERMA_GAME_OVER_BODY">У спробе гэтага подзвігу ўжо даказана храбрасць.&lt;br&gt;Няхай твой Цень нарэшце знойдзе свой спакой.</entry>
@@ -38,7 +38,7 @@
 <entry name="CREDITS_TRANSLATE_ITALIAN">Translation - Italian</entry>
 <entry name="PERMA_GAME_OVER_CONTINUE">Націсніце любую кнопку, каб працягнуць.</entry>
 <entry name="CREDITS_FIGSCULPTOR_NAME">David Díaz Patrón</entry>
-<entry name="CREDITS_TRANSLATE_BPORTUGUESE_NAME">Lucas "Luska" Fernandes&lt;br&gt;Vinícius "Viniuau" José&lt;br&gt;Jonas Breda "Poteiga!"&lt;br&gt;Luiz Fernando S. M. Maia&lt;br&gt;Guilherme Antonio Canani&lt;br&gt;Vinícius de Medeiros Miguel&lt;br&gt;</entry>
+<entry name="CREDITS_TRANSLATE_BPORTUGUESE_NAME">Lucas «Luska» Fernandes&lt;br&gt;Vinícius «Viniuau» José&lt;br&gt;Jonas Breda «Poteiga!»&lt;br&gt;Luiz Fernando S. M. Maia&lt;br&gt;Guilherme Antonio Canani&lt;br&gt;Vinícius de Medeiros Miguel&lt;br&gt;</entry>
 <entry name="CREDITS_PORTING">Shark Jump Studios</entry>
 <entry name="CREDITS_MARKET_JAPAN_NAME">Kakehashi Games</entry>
 <entry name="CREDITS_THANKS">Асабліая Падзяка</entry>
@@ -57,7 +57,7 @@
 <entry name="TUTORIAL_CREDIT_GAME">Гульня ад</entry>
 <entry name="CREDITS_PORTING_TEST_NAME">James Pearse</entry>
 <entry name="CREDITS_SCORE_NAME">Christopher Larkin</entry>
-<entry name="CREDITS_CHARVOICES_NAME">Makoto Koji&lt;br&gt;Tyler Bartley&lt;br&gt;Hari Dimitriou&lt;br&gt;Matthew Griffin&lt;br&gt;Hannah Murdoch&lt;br&gt;Bill Northcott&lt;br&gt;Zara Pellen&lt;br&gt;Victoria Roberts&lt;br&gt;Cassandra "Friskk" Reyna&lt;br&gt;Not Shalulu</entry>
+<entry name="CREDITS_CHARVOICES_NAME">Makoto Koji&lt;br&gt;Tyler Bartley&lt;br&gt;Hari Dimitriou&lt;br&gt;Matthew Griffin&lt;br&gt;Hannah Murdoch&lt;br&gt;Bill Northcott&lt;br&gt;Zara Pellen&lt;br&gt;Victoria Roberts&lt;br&gt;Cassandra «Friskk» Reyna&lt;br&gt;Not Shalulu</entry>
 <entry name="GAME_COMPLETE_TITLE">ПРАЦЭНТ</entry>
 <entry name="CREDITS_GAME_BY_NAME">Team Cherry</entry>
 <entry name="CREDITS_THANKS_NAME">Ludum Dare&lt;br&gt;Warren Fenn&lt;br&gt;Rohan Fraser&lt;br&gt;Ben Gibson&lt;br&gt;Makoto Koji&lt;br&gt;Trent Kusters&lt;br&gt;Morgan Jaffit&lt;br&gt;Rod Jago&lt;br&gt;Tim Mcburnie&lt;br&gt;John Millard&lt;br&gt;Jason Pamment&lt;br&gt;Zara Pellen&lt;br&gt;Victoria Roberts&lt;br&gt;Lilly Sim&lt;br&gt;Nicola Stark&lt;br&gt;Sharyn Stone&lt;br&gt;Steven Sun&lt;br&gt;Matt Trobbiani&lt;br&gt;Dan Treble&lt;br&gt;Peter Yong&lt;br&gt;Jenni Vigaud&lt;br&gt;Chris Wright</entry>
@@ -83,7 +83,7 @@
 <entry name="CREDITS_SOUND_ASSIST_NAME">Tim Whitt</entry>
 <entry name="CREDITS_GAME_BY">Гульня ад</entry>
 <entry name="CREDITS_CONGRATS">Віншуем</entry>
-<entry name="CREDITS_ADDIT_TRANSLATE_SPANISH_NAME">Daniel Ruiz "TheBrightKing"</entry>
+<entry name="CREDITS_ADDIT_TRANSLATE_SPANISH_NAME">Daniel Ruiz «TheBrightKing»</entry>
 <entry name="CREDITS_THANKS_MUSIC_NAME">Jeff Van Dyck&lt;br&gt;Russell Larkin&lt;br&gt;Mitchell Larkin&lt;br&gt;Fabian Malabello&lt;br&gt;Andriana Tran&lt;br&gt;Angelo Valdiva</entry>
 <entry name="CREDITS_TRANSLATE_FRENCH_NAME">Not Shalulu</entry>
 <entry name="CREDITS_TRANSLATE_JAPAN">Japanese Localisation</entry>

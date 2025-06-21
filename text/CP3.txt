@@ -5,7 +5,7 @@
 <entry name="NAME_MANTIS_LORD_V">Сёстры Бойкі</entry>
 <entry name="NIGHTMARE_GRIMM_GG_3">Раскіданыя землі... Кашмар усе звяжа...</entry>
 <entry name="GG_UNLOCK_INSPECT">Часовая прылада з панцыру.</entry>
-<entry name="NOTE_VOID_IDOL_1">"Ці натхнёныя, ці шалёныя старажытныя жукі гэтыя, яны прысвяцілі сябе не валадару, не сіле ці моцы, а самой цемры."&lt;br&gt;- Лем</entry>
+<entry name="NOTE_VOID_IDOL_1">«Ці натхнёныя, ці шалёныя старажытныя жукі гэтыя, яны прысвяцілі сябе не валадару, не сіле ці моцы, а самой цемры.»&lt;br&gt;- Лем</entry>
 <entry name="INV_DESC_GODFINDER">Прылада, якая адгукаецца стварэнням вялікай сілы.&lt;br&gt;&lt;br&gt;Ярка блішчыць пасля перамогі над магутнымі ворагамі.</entry>
 <entry name="GG_S_MEGABEAMMINER">Бліскучы бог сквапнасці</entry>
 <entry name="ETERNAL_ORDEAL_SUPER"></entry>
@@ -24,7 +24,7 @@
 <entry name="ETERNAL_ORDEAL">Вечнае Выпрабаванне</entry>
 <entry name="ATRIUM_NPC_DREAM_5">Шукай... сілу...</entry>
 <entry name="PURE_VESSEL_4">Не...</entry>
-<entry name="NOTE_SAGE_SLY">"Мудры Бог хітрацоў і харобрых,&lt;br&gt;Цвік Наш праз моц тваю будзе васцёр,&lt;br&gt;Хочам убачыць, вялікшы з майстроў,&lt;br&gt;Яшчэ найвялікашага, Бога Багоў!"&lt;br&gt;- Малітва да Мудраца</entry>
+<entry name="NOTE_SAGE_SLY">«Мудры Бог хітрацоў і харобрых,&lt;br&gt;Цвік Наш праз моц тваю будзе васцёр,&lt;br&gt;Хочам убачыць, вялікшы з майстроў,&lt;br&gt;Яшчэ найвялікашага, Бога Багоў!»&lt;br&gt;- Малітва да Мудраца</entry>
 <entry name="UI_BINDINGS_TITLE">АБМЕЖАВАННІ</entry>
 <entry name="GODSEEKER_ENGINE_UNN_REPEAT">Такі велікапышны маштаб, нават у заняпадзе. Калі б толькі ты магла Нас навучыць расці такімі жа вялікімі...</entry>
 <entry name="GG_S_MAGEKNIGHT">Неспакойны бог свяцілішча</entry>
@@ -85,7 +85,7 @@
 <entry name="GG_LOCKED_DESC_GHOST_MARMU">Я цярпліва ляжу ўва сне ў садзе</entry>
 <entry name="ATRIUM_NPC_DREAM_1">...Наш розум — мора...</entry>
 <entry name="DESC_PAINTMASTER">Умелы і паважаны майстар цвіка. Заўсёды гатовы вучыцца чамусьці новаму.</entry>
-<entry name="NOTE_PAINTMASTER">"Божа натхнёны, майстар мастацтва,&lt;br&gt;Чыі работы вечна лашчаць вока,&lt;br&gt;Зазірні за розумы і сэрцы Нашы,&lt;br&gt;Пакажы Нам Бога найчыстога!"&lt;br&gt;- Малітва да Мастака</entry>
+<entry name="NOTE_PAINTMASTER">«Божа натхнёны, майстар мастацтва,&lt;br&gt;Чыі работы вечна лашчаць вока,&lt;br&gt;Зазірні за розумы і сэрцы Нашы,&lt;br&gt;Пакажы Нам Бога найчыстога!»&lt;br&gt;- Малітва да Мастака</entry>
 <entry name="GET_GODFINDER_1">Прылада, рэзаніруе з істотамі вялікай сілы.</entry>
 <entry name="GET_GODFINDER_2">Шукай багоў Халаўнэста. Настрой іх сілу. Праз іх моц узвысся.</entry>
 <entry name="LURKER_1">Кароль! Маё!</entry>
@@ -122,15 +122,15 @@
 <entry name="DESC_VOID_IDOL_3">Рэдкі артыфакт з дахалаўнэсцкіх часоў, яго стрэлкі перавіваюцца ў адзінае. Змяшчае шмат цалкам стаячай вадкасці з Бездані.</entry>
 <entry name="GODSEEKER_ENGINE_T5">Свавольство над свавольствам! Не можам пазбегнуць цябе нават тут, у найвышэйшым, найдалейшым пантэоне.&lt;page&gt;Уладальніча цвіка, душагубе. Ці гэто цябе паслалі Багі... ці ты нешто дзіўнейшае?&lt;page&gt;Мы не будзем працівіцься табе, працягвай свой бой. Мы ўважно будзем слухаць...</entry>
 <entry name="PROMPT_ASCEND_GG">УЗНЯЦЦА</entry>
-<entry name="NOTE_GODSEEKER_MASK">"Багі Грымот, Багі Дажджу! Чаму пакінулі вы слуг сваіх? Ці пакінеце розумы Нашы ў муках, у болі і адзіноце? Які астаўся Бог, каб збавіў нас ад гэтай гаротнай цішыні?"&lt;br&gt;- Галашэнне Богашукальнікаў</entry>
+<entry name="NOTE_GODSEEKER_MASK">«Багі Грымот, Багі Дажджу! Чаму пакінулі вы слуг сваіх? Ці пакінеце розумы Нашы ў муках, у болі і адзіноце? Які астаўся Бог, каб збавіў нас ад гэтай гаротнай цішыні?»&lt;br&gt;- Галашэнне Богашукальнікаў</entry>
 <entry name="GG_S_NAILPAINT">Таленавіты бог мастакоў і творцаў</entry>
 <entry name="VENGEFLY_MAIN">Мстамух</entry>
 <entry name="NAME_VOID_IDOL_3">Ідал Пустэчы</entry>
 <entry name="GG3ACHIEVE_TEXT">Завяршыце Пантэон Мудраца</entry>
 <entry name="GG_LOCKED_DESC_SLY">Я чакаю цябе на вяршыні Пантэона</entry>
 <entry name="VENGEFLY_SUPER">Кароль</entry>
-<entry name="NOTE_NAILMASTERS">"Клятву далі два браты,&lt;br&gt;Богі, што цвіком звязаны,&lt;br&gt;Слабых бараніць. Майстры,&lt;br&gt;Бога нам знайсці ўпрашаем!"&lt;br&gt;- Малітва да Майстроў</entry>
-<entry name="NOTE_VOID_IDOL_3">"Ці натхнёныя, ці шалёныя старажытныя жукі гэтыя, яны прысвяцілі сябе не валадару, не сіле ці моцы, а самой цемры."&lt;br&gt;- Лем</entry>
+<entry name="NOTE_NAILMASTERS">«Клятву далі два браты,&lt;br&gt;Богі, што цвіком звязаны,&lt;br&gt;Слабых бараніць. Майстры,&lt;br&gt;Бога нам знайсці ўпрашаем!»&lt;br&gt;- Малітва да Майстроў</entry>
+<entry name="NOTE_VOID_IDOL_3">«Ці натхнёныя, ці шалёныя старажытныя жукі гэтыя, яны прысвяцілі сябе не валадару, не сіле ці моцы, а самой цемры.»&lt;br&gt;- Лем</entry>
 <entry name="GG_LOCKED_DESC_BROKENVESSEL">Я сплю ў глыбокіх пячорах пад светам</entry>
 <entry name="SISTERS_SUPER"></entry>
 <entry name="GG_S_RADIANCE">Забыты бог святла</entry>
@@ -243,7 +243,7 @@
 <entry name="FLUKE_HERMIT_IDLE_4">Ціха тут, гля... Сястрычкі... Гля-гля...</entry>
 <entry name="NAME_HORNET_2">Аса Вартаўніца</entry>
 <entry name="NAME_HORNET_1">Аса Ахоўніца</entry>
-<entry name="NOTE_PURE_VESSEL">"Названы Рыцар, Цвіканосец,&lt;br&gt;Звязаны чарамі ў яйцы,&lt;br&gt;Мёртвая ціш у святой абалонцы,&lt;br&gt;Пачуй нас! Святло Нам сваё пакажы!"&lt;br&gt;- Малітва да Сасуда</entry>
+<entry name="NOTE_PURE_VESSEL">«Названы Рыцар, Цвіканосец,&lt;br&gt;Звязаны чарамі ў яйцы,&lt;br&gt;Мёртвая ціш у святой абалонцы,&lt;br&gt;Пачуй нас! Святло Нам сваё пакажы!»&lt;br&gt;- Малітва да Сасуда</entry>
 <entry name="GG3ACHIEVE_TITLE">Канцэнтрацыя</entry>
 <entry name="GG_LOCKED_DESC_NAILMASTERS">Разам мы стаімо на вяршыні Пантэона</entry>
 <entry name="MATO_2">Не пакідай мяне!</entry>
@@ -352,7 +352,7 @@
 <entry name="GODSEEKER_SUPER"></entry>
 <entry name="GG1ACHIEVE_TITLE">Братэрства</entry>
 <entry name="PS4_ACHIEVE_GRIMM_END_TITLE">Канец Кашмару</entry>
-<entry name="NOTE_VOID_IDOL_2">"Ці натхнёныя, ці шалёныя старажытныя жукі гэтыя, яны прысвяцілі сябе не валадару, не сіле ці моцы, а самой цемры."&lt;br&gt;- Лем</entry>
+<entry name="NOTE_VOID_IDOL_2">«Ці натхнёныя, ці шалёныя старажытныя жукі гэтыя, яны прысвяцілі сябе не валадару, не сіле ці моцы, а самой цемры.»&lt;br&gt;- Лем</entry>
 <entry name="SLY_BOSS_MAIN">Слай</entry>
 <entry name="CTRL_MARKERS">Меткі</entry>
 <entry name="SHEO_1">Вось найвялікшая сіла, праўда ж?</entry>

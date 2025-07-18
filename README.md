@@ -13,7 +13,7 @@ P.S.
 Калі вы зрабілі нешта не так пад час капіравання. Вы можаце зайсці ў Steam і запусціць праверку гульні на наяўнасць пашкоджанняў файлаў.
 
 
-Артыкул у Steam ()
+[Артыкул](https://steamcommunity.com/sharedfiles/filedetails/?id=3522174180) у Steam
 
 Дадатковы варыянт спампоўкі:
 - [Nexus](https://www.nexusmods.com/hollowknight/mods/82)

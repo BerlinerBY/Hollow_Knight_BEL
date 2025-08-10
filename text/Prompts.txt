@@ -42,10 +42,10 @@
 <entry name="TRIAL_BOARD_BRONZE">Выпрабаванне Ваяра. Біцеся за Гео ды Ячэйку Амулету.&lt;br&gt;Адзначыцца ды пачаць Выпрабаванне?</entry>
 <entry name="PROMPT_FOCUS_EXPLAINER1B">Калі сабрана дастаткова ДУШЫ.</entry>
 <entry name="GET_ITEM_INTRO6">Спажыта</entry>
-<entry name="GET_ITEM_INTRO7">Паглынута</entry>
+<entry name="GET_ITEM_INTRO7">Увабрана</entry>
 <entry name="GET_ITEM_INTRO4">Адмечана</entry>
-<entry name="GET_ITEM_INTRO5">Атрымана</entry>
-<entry name="GET_ITEM_INTRO2">Паглынуты</entry>
+<entry name="GET_ITEM_INTRO5">Падабрана</entry>
+<entry name="GET_ITEM_INTRO2">Паглынута</entry>
 <entry name="GET_ITEM_INTRO3">Вывучана</entry>
 <entry name="PROMPT_LOOK_DOWN">Паглядзець Уніз</entry>
 <entry name="GET_SHADOWDASH_2">З плашчом рабіце рывок праз ворагаў і іх атакі не шкодзячыся.</entry>
@@ -101,7 +101,7 @@
 <entry name="GET_GSLASH_2">Адпусціць клавішу, не ціснучы УВЕРХ або УНІЗ, каб зрабіць Вялікі Удар.</entry>
 <entry name="TOLLBOOTH_LIFT">Геопрыёмнік з сімвалам ліфта. Уставіць Гео? </entry>
 <entry name="INSPECT">АГЛЯДЗЕЦЬ</entry>
-<entry name="GET_ITEM_INTRO1">Узяты</entry>
+<entry name="GET_ITEM_INTRO1">Узята</entry>
 <entry name="TRIAL_UNLOCK_GOLD">Заплаціць, каб адкрыць Выпрабаванне Дурня?</entry>
 <entry name="BUTTON_DESC_PRESS">Націснуць</entry>
 <entry name="GET_MAP_1">Атрыманая МАПА</entry>
